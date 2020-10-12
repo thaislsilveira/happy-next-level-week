@@ -1,4 +1,4 @@
-![Logo](https://github.com/thaislsilveira/happy-next-level-week/tree/main/web/src/assets/tela.png)
+![Logo](https://github.com/thaislsilveira/happy-next-level-week/blob/main/web/src/assets/tela.png)
 <h1 align='center'>Happy - Next Level Week </h1>
 
 ## Descrição do projeto :star:
