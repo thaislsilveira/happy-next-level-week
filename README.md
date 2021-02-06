@@ -29,7 +29,7 @@ yarn start
 ## Tecnologias utilizadas 🚀
 
 <ul>
-    <li><a href="https://nodejs.org/en/" target="_blank">Node</a></li>
+    <li><a href="https://www.sqlite.org/index.html" target="_blank">SQLite</a></li>   
     <li><a href="https://reactjs.org/" target="_blank">React</a></li>
     <li><a href="https://reactnative.dev/" target="_blank">React Native</a></li>  
 </ul>
